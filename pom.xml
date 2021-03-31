@@ -15,7 +15,7 @@
         <spring-boot.version>2.1.6.RELEASE</spring-boot.version>
         <commom.version>0.0.1-SNAPSHOT</commom.version>
         <mybatis.version>1.3.1</mybatis.version>
-        <guava.version>23.3-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <dubbo.version>1.0.0</dubbo.version>
         <java.version>1.8</java.version>
     </properties>
